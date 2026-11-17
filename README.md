@@ -1,7 +1,7 @@
 ## 开源贡献
 
 ### DiffSynth-Studio — MiniMax-H3-Image 训练流程 Bug 修复
-
+开源项目：DiffSynth-Studio — ⭐ 13.4K+ Stars · 1.3K+ Forks
 为 DiffSynth-Studio 的 MiniMax-H3-Image 训练流水线贡献了一项 Caption 传递问题的修复。
 
 - **问题发现：** 定位到文本特征预计算缓存中的异常，不同 Caption 被编码为完全相同的单 Token 文本特征。
